@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  gap: 32px;
+}
+
+.link {
+  display: inline-block;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.link.active {
+  color: var(--color-button-hover);
+}
