@@ -7,7 +7,7 @@ A web app for booking travel campers, built with React, Redux, and Vite.
 - npm
 
 ## Installation
-1. Clone repo: `git clone <repository-url>`
+1. Clone repository: `git clone https://github.com/k-zozulia/TravelTrucks.git`
 2. Enter dir: `cd travel-trucks`
 3. Install deps: `npm install`
 
